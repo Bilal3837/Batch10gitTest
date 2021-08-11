@@ -1,0 +1,15 @@
+package syntax.comClass009;
+
+public class Task2ForArrays {
+
+	public static void main(String[] args) {
+
+String [] names= {"3Java", "0Saturday", "Day", "4coding", "2is."};
+
+System.out.println(names[2]);
+
+
+
+	}
+
+}

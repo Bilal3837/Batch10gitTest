@@ -1,0 +1,16 @@
+package com.syntax.Class10;
+
+public class Task2 {
+
+	public static void main(String[] args) {
+		
+		
+		String[] countries= {"Afghanistan", "Morroco", "USA", "Meldiv"};
+		
+		System.out.println(countries.length);
+		
+		
+
+	}
+
+}

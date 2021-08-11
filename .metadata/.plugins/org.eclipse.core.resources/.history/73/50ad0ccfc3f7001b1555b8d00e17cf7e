@@ -1,0 +1,21 @@
+package syntax.comClass009;
+
+public class replit56 {
+
+	public static void main(String[] args) {
+		
+		 for (int i=4; i<22; i--){
+			 
+			 if (i%2==0){
+			   System.out.println(i);
+			 }
+			 
+
+
+			 }
+		
+		
+
+	}
+
+}

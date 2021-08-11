@@ -1,0 +1,23 @@
+package com.syntax.Class10;
+
+import java.util.Scanner;
+
+public class Replit64 {
+
+	public static void main(String[] args) {
+		
+		
+
+		 
+		 Scanner scan=new Scanner (System.in);
+		 int end = 0;
+		 for (double i=0; i<end; i++){
+		   end=scan.nextInt();
+
+		 }
+		
+		
+
+	}
+
+}

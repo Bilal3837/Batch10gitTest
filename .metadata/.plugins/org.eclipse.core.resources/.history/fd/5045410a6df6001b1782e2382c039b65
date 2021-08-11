@@ -1,0 +1,22 @@
+package com.syntaxClasReview08;
+
+public class Replit48Loops {
+
+	public static void main(String[] args) {
+		
+		int a=1;
+		 
+		while (a<=12){
+		
+			 if(a%2==2) {
+		
+			 System.out.println(a);
+		 
+		a++;
+		 
+		 }
+		 }
+
+	}
+
+}

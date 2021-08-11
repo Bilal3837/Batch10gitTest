@@ -1,0 +1,19 @@
+package syntax.comClass009;
+
+public class Replit55 {
+
+	public static void main(String[] args) {
+	
+		
+
+		 for (int a=14; a<0; a++){
+		  
+		  if (a%2==0){
+		    System.out.println(a);
+		  
+		  
+		  }
+		  }
+	}
+
+}

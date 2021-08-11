@@ -1,0 +1,18 @@
+package com.syntaxClass008;
+
+public class WorkingOnLoops {
+
+	public static void main(String[] args) {
+
+		
+		for (int i=1; i <5; i++) {
+			
+			System.out.println(i);
+		}
+		
+		
+		
+
+	}
+
+}

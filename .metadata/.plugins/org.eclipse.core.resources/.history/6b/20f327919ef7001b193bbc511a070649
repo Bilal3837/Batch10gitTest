@@ -1,0 +1,28 @@
+package syntax.comClass009;
+
+public class ArraysInJava {
+
+	public static void main(String[] args) {
+
+		int[] arr = new int[5];
+
+		arr[0] = 10;
+		arr[1] = 20;
+		arr[2] = 30;
+		arr[3] = 40;
+		arr[4] = 50;
+
+		String[] days = new String[7];
+
+		days[0] = "M";
+		days[1] = "T";
+		days[2] = "W";
+		days[3] = "Th";
+		days[4] = "F";
+		days[5] = "S";
+		days[6]="Sat";
+
+	System.out.println(days[6]+" "+days[5]);
+	
+	}
+}

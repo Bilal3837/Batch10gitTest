@@ -1,0 +1,22 @@
+package com.syntax.Class10;
+
+public class TwoArraysExamples {
+
+	public static void main(String[] args) {
+		String [][] food = {
+				
+				
+				{"Borsh", "Vereniki", "draniki"},
+				{"kebab", "Palaow", "Mantu"},
+				{"Tacos", "Burito", "quesso", "Salsa"},
+				{"pasa", "Pizza", "bread", "risotto"},
+		
+				};
+
+	
+	System.out.println(food.length);
+	
+	
+	}
+
+}

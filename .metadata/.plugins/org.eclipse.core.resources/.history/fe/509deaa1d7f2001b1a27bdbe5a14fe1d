@@ -1,0 +1,15 @@
+package com.syntaxClass008;
+
+public class BreakKeyWord {
+
+	public static void main(String[] args) {
+		
+		for (int i = 1; i < 6; ) {
+			
+			System.out.println("Today is Saturday");
+			
+		}
+
+	}
+
+}

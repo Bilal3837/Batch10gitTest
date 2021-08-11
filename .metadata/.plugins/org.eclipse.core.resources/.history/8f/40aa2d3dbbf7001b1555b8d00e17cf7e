@@ -1,0 +1,24 @@
+package syntax.comClass009;
+
+public class TaskHomeWork {
+
+	public static void main(String[] args) {
+
+ String[] cars= {"BMW", "Ferrari", "Bugati", "Toyota", "Benz", "Camry", "Supercar"};
+ 
+ System.out.println(cars.length);
+ 
+ for(int i=0; i>cars.length; i++) {
+	 System.out.println(cars[i]);
+ 
+	 
+	 
+ }
+		
+		
+		
+		
+
+	}
+
+}

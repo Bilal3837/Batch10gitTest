@@ -1,0 +1,20 @@
+package com.syntaxClasReview08;
+
+public class WhileLoop2 {
+
+	public static void main(String[] args) {
+		
+		int f=1;
+		
+		while(f<8) {
+			f++; 
+			System.out.println(f);
+			
+		}
+		
+		
+		
+
+	}
+
+}

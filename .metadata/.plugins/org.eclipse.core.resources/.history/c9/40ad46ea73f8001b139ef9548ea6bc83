@@ -1,0 +1,21 @@
+package com.syntax.Class10;
+
+public class TaskFor2ndArrays {
+
+	public static void main(String[] args) {
+		
+		String[][]names= {
+				{"MR", "Mrs", "MS", "Miss", },
+				{"Smith", "Jordan", "Jackson", "Obama" },
+				};
+		
+		System.out.println(names[0][2]);
+		
+		
+		
+		
+		
+
+	}
+
+}

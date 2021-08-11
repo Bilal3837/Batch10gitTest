@@ -1,0 +1,12 @@
+package syntax.comClass009;
+
+public class Recap {
+
+	public static void main(String[] args) {
+	
+		
+		String[] array=new String []3
+
+	}
+
+}

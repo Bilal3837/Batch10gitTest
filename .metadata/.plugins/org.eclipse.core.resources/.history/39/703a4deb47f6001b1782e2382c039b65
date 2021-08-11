@@ -1,0 +1,18 @@
+package com.syntaxClasReview08;
+
+public class Loops1 {
+
+	public static void main(String[] args) {
+		
+		
+		int num=10;
+	
+		while (10 < 11) {
+		System.out.println("batch 10 is Syntax");
+		
+		
+		
+		}
+	}
+
+}

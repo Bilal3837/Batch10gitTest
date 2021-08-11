@@ -1,0 +1,22 @@
+package com.syntaxClasReview08;
+
+public class DowhileLoop53 {
+
+	public static void main(String[] args) {
+		
+		
+		int i;
+		i=2;
+
+		do {
+		  System.out.println(i);
+		  i++;
+		  
+		  if (i<=1){
+			  
+		  }
+		  }while (i%2==0);
+
+	}
+
+}

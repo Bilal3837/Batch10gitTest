@@ -1,0 +1,13 @@
+package syntax.comClass009;
+
+public class ArraysInJava {
+
+	public static void main(String[] args) {
+
+System.out.println("asd");
+
+		
+		
+	}
+
+}

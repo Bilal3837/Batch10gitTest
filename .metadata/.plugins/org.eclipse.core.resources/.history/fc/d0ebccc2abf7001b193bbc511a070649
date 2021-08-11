@@ -1,0 +1,18 @@
+package syntax.comClass009;
+
+public class LengthArrays {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		char[] grade = {'A', 'B', 'C', 'D', 'E', 'F'};
+		System.out.println(grade.length);
+		
+		int num=0;
+		
+
+	}
+
+}

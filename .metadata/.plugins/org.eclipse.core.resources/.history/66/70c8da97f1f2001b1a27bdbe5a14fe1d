@@ -1,0 +1,21 @@
+package com.syntaxClass008;
+
+import java.util.Scanner;
+
+public class Task4 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Enter number of item you want to buy");
+		int item, price, money;
+		Scanner scan, can, an;
+		scan=new Scanner(System.in);
+		item=scan.nextInt();
+		
+		
+		
+		
+		
+	}
+
+}

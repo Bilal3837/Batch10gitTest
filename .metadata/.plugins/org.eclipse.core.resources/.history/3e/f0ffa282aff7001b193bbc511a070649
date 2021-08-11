@@ -1,0 +1,28 @@
+package syntax.comClass009;
+
+public class Task {
+	public static void main(String[] args) {
+
+		String[] cars= {"Toyoya", "Benz", "Truck", "BMW", "SuperCar", "YourCar"};
+		
+		
+		
+		for(int i=0; i<cars.length; i++ ) {
+			
+			System.out.println(cars[i]);
+		}
+		
+		// advance for loop can only works with the Arrays.
+		
+		for(String car: cars ) {
+			
+			System.out.println(car);
+		}
+		
+		
+		
+		
+		
+		
+	}
+}

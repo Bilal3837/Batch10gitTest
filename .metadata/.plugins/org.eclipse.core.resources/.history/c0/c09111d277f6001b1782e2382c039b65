@@ -1,0 +1,25 @@
+package com.syntaxClasReview08;
+
+public class Replit51Loops {
+
+	public static void main(String[] args) {
+		
+		
+		int i=10;
+		do {
+			System.out.println(i);
+			
+		  }
+		while(i<20);{
+			
+		}
+		
+
+
+		  
+		  
+		
+
+	}
+
+}

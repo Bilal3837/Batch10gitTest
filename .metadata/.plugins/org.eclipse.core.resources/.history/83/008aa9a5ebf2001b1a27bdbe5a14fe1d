@@ -1,0 +1,20 @@
+package com.syntaxClass008;
+
+import java.util.Scanner;
+
+public class Task4 {
+
+	public static void main(String[] args) {
+		
+		int item, price, money;
+		Scanner scan, can, an;
+		scan=new Scanner(System.in);
+		item=scan.nextInt();
+		
+		
+		
+		
+		
+	}
+
+}

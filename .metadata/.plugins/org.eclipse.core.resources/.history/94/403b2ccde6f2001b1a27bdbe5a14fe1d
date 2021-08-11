@@ -1,0 +1,23 @@
+package com.syntaxClass008;
+
+import java.util.Scanner;
+
+public class WorkingOnLoops {
+
+	public static void main(String[] args) {
+
+		System.err.println("What is the range of integers? from start to End point");
+		for (int i=15; i <30; i++) {
+			Scanner scan=new Scanner(System.in);
+			i=scan.nextInt();
+			
+			
+			
+		}
+		
+		
+		
+
+	}
+
+}

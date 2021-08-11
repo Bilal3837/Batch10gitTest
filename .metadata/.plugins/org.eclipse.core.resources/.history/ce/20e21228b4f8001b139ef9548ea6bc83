@@ -1,0 +1,20 @@
+package com.syntax.Class10;
+
+import java.util.Scanner;
+
+public class Replit63 {
+
+	public static void main(String[] args) {
+		
+		Scanner scan=new Scanner(System.in);
+		
+		int x;
+		for (int i=0; i<=2; i++){
+			i=scan.nextInt();
+			System.out.println("In: 8 "+i);
+		
+		}
+		
+		}
+
+}
